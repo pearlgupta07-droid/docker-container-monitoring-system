@@ -1,0 +1,5 @@
+.env
+grafana-backup/
+__pycache__/
+*.pyc
+docker-compose-before-gmail.yml
